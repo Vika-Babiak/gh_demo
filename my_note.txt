@@ -2,3 +2,7 @@ Should do sth
 figure it out
 learn some commands
 repeat the rules
+
+
+add some new lines
+look at gui
